@@ -1,8 +1,6 @@
 <h2 align="center">
   <br>
   <img width="200" src="public/inteira.png" alt="Clínica Weffort">
-  <br>
-  Clinica Weffort
 </h2>
 
 
